@@ -4,6 +4,8 @@ Proyecto Ejemplo
 Componentes del Grupo
 ---------------------
 
+(Máximo 3 integrantes por grupo)
+
 + John Doe (Desarrollo y Sistemas)
 + Juanito Valderrama (Diseñador)
 + Maria LaPortuguesa (Maquetadora)
