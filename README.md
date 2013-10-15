@@ -16,6 +16,7 @@ Reglas
 2. No se puede empezar con un proyecto previo al hackathon. El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackathon.
 3. Para ayudar a enfocar a los participantes se podrían ofrecer algunas temáticas.
 4. Los grupos serán de un máximo de 3 integrantes.
+5. Todos los proyectos deberán estar bajo una licencia que respete los principios del Software Libre.
 
 
 Inscripciones
