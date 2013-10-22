@@ -25,4 +25,7 @@ Esquema
 * 16:30 Organización de grupos de trabajo y comienzo del mismo.
 * 20:00 Hack& Beers 2.0
 
+Inscripción
+-----------
 
+La [inscripción es gratuita](https://docs.google.com/forms/d/1EHjAjwLiIHtscoPEmtXgQJGjik6XA2CIhK5YQgLUiFI/viewform) y común para todas las universidades.  
